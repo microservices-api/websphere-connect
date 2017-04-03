@@ -25,8 +25,9 @@ Repository for WebSphere Connect specific artifacts
     * http://ibm.biz/restapi
 * API Discovery using WAS-as-a-Service in Bluemix video
     * https://www.youtube.com/watch?v=hxMGtBcmkzY
-* Maven swagger processor
+* Maven (build-time) swagger processor
     * https://github.com/WASdev/tool.swagger.docgen
+    * https://www.youtube.com/watch?v=upa-1PhspvQ
 
 
 
