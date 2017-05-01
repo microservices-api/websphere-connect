@@ -1,8 +1,10 @@
 # websphere-connect
 Repository for WebSphere Connect specific artifacts
 
-* [New] Enhancements to API discovery
+* New Enhancements to API discovery
     * https://developer.ibm.com/wasdev/blog/2017/03/15/new-enhancements-libertys-openapi-support/
+* Polyglot collective (Java, Node, Docker/Java, Docker/Node)
+    * https://www.ibm.com/developerworks/library/mw-1704-dinh/1704-dinh.html
 * Introductory blog
     * https://developer.ibm.com/wasdev/blog/2016/02/17/exposing-liberty-rest-apis-swagger
 * Core API discovery and integration with Bluemix and API Connect blog
