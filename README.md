@@ -1,6 +1,8 @@
 # websphere-connect
 Repository for WebSphere Connect specific artifacts
 
+* Deploy Java OpenAPI microservices in containers using Liberty, Kubernetes, and IBM Cloud
+    * https://developer.ibm.com/wasdev/docs/deploy-java-microservice-open-apis-in-containers-using-websphere-kubernetes-and-ibm-cloud/
 * Design and deploy OpenAPI microservices with SwaggerHub and Bluemix
     * https://developer.ibm.com/wasdev/docs/design-deploy-openapi-microservices-swaggerhub-bluemix/
 * New Enhancements to API discovery
