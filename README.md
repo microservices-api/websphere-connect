@@ -1,6 +1,8 @@
 # websphere-connect
 Repository for WebSphere Connect specific artifacts
 
+* MicroProfile OpenAPI Intro
+    * https://openliberty.io/blog/2018/05/22/microprofile-openapi-intro.html
 * Deploy Java OpenAPI microservices in containers using Liberty, Kubernetes, and IBM Cloud
     * https://developer.ibm.com/wasdev/docs/deploy-java-microservice-open-apis-in-containers-using-websphere-kubernetes-and-ibm-cloud/
 * Design and deploy OpenAPI microservices with SwaggerHub and Bluemix
